@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Roll random numbers</string>
+    <string name="roll">Roll</string>
 </resources>
